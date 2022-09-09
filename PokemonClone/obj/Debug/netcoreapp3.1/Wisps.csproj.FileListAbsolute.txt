@@ -1,0 +1,14 @@
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\Wisps.exe
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\Wisps.deps.json
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\Wisps.runtimeconfig.json
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\Wisps.runtimeconfig.dev.json
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\Wisps.dll
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\Wisps.pdb
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Wisps.csproj.AssemblyReference.cache
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Wisps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Wisps.AssemblyInfoInputs.cache
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Wisps.AssemblyInfo.cs
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Wisps.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Wisps.dll
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Wisps.pdb
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Wisps.genruntimeconfig.cache

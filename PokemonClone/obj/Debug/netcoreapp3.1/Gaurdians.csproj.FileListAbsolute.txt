@@ -1,0 +1,14 @@
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Gaurdians.csproj.AssemblyReference.cache
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Gaurdians.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Gaurdians.AssemblyInfoInputs.cache
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Gaurdians.AssemblyInfo.cs
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Gaurdians.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\Gaurdians.exe
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\Gaurdians.deps.json
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\Gaurdians.runtimeconfig.json
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\Gaurdians.runtimeconfig.dev.json
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\Gaurdians.dll
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\Gaurdians.pdb
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Gaurdians.dll
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Gaurdians.pdb
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\Gaurdians.genruntimeconfig.cache

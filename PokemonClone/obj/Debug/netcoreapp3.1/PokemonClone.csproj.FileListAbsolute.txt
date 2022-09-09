@@ -1,0 +1,14 @@
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\PokemonClone.exe
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\PokemonClone.deps.json
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\PokemonClone.runtimeconfig.json
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\PokemonClone.runtimeconfig.dev.json
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\PokemonClone.dll
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\bin\Debug\netcoreapp3.1\PokemonClone.pdb
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\PokemonClone.csproj.AssemblyReference.cache
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\PokemonClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\PokemonClone.AssemblyInfoInputs.cache
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\PokemonClone.AssemblyInfo.cs
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\PokemonClone.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\PokemonClone.dll
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\PokemonClone.pdb
+C:\Users\thoma\Source\Repos\PokemonClone\PokemonClone\obj\Debug\netcoreapp3.1\PokemonClone.genruntimeconfig.cache
